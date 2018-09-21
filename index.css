@@ -10,86 +10,36 @@ body
 h1
 { font-weight: 600;
   margin-top: 3rem;
-  margin-bottom: 8rem;
+  margin-bottom: 5rem;
   font-size: 2rem;
+  text-align: center;
+  text-transform: uppercase;
   line-height: 1; }
 
 h1.title
+{ font-size: 3rem;
+  margin-bottom: 10rem; }
+
+h1 > span.title-small
 { text-transform: uppercase;
   text-align: center;
-  font-size: 3rem;
-  margin-bottom: 10rem; }
+  font-size: 2.4rem; }
 
 h2
 { font-weight: 400;
-  margin-top: 1.5rem;
+  margin-top: 2rem;
   margin-bottom: 1rem;
   font-size: 1.5rem;
+  font-variant: small-caps;
   line-height: 1;
   text-align: center;
   text-indent: 0; }
 
 h2.authors
-{ font-variant: small-caps;
-  font-weight: 600;
-  font-style: italic; }
-
-h2.contents-title
-{ font-style: italic;
-  font-size: 2rem;
-  margin-bottom: 3rem; }
-
-h2.dedication
-{ text-align: right;
-  margin-bottom: 30rem; }
-
-span.subtitle
-{ font-size: 1.2rem;
-  font-weight: 200;
-  display: block;
-  margin-top: 2rem; }
-
-span.overtitle
 { text-transform: uppercase;
-  font-size: 1.2rem;
-  font-weight: 800;
-  display: block;
-  margin-bottom: 2rem; }
-
-span.caps-subtitle
-{ text-transform: uppercase;
-  font-size: 1.2rem;
-  font-weight: 200;
-  display: block;
-  margin-top: 2rem;
-  margin-bottom: 2rem; }
-
-span.section
-{ font-size: 1.5rem;
-  display: block;
-  margin-top: 3rem;
-  margin-bottom: 2rem; }
-
-span.center-section
-{ font-size: 1.5rem;
-  display: block;
-  text-align: center;
-  margin-top: 3rem;
-  margin-bottom: 2rem; }
-
-span.caps-section
-{ font-size: 1.2rem;
-  display: block;
-  text-transform: uppercase;
-  margin-top: 3rem;
-  margin-bottom: 2rem; }
-
-span.addendum
-{ font-size: 1.2rem;
-  display: block;
-  font-style: italic;
-  margin-top: 3rem;
-  margin-bottom: 2rem; }
+  line-height: 1.5;
+  font-weight: 500;
+  margin-bottom: 10rem; }
 
 p
 { font-size: 1.2rem;
@@ -99,17 +49,12 @@ p
   text-align: justify;
   text-indent: 1rem; }
 
-p.translation, p.original-title, p.copyright, p.redaction,
-p.digitised, p.cover, p.credits, p.isbn, p.dedication
-{ font-weight: 400;
-  margin-top: 1rem;
-  margin-bottom: 0.5rem;
-  font-size: 1rem;
-  line-height: 1;
-  text-align: center;
-  text-indent: 0; }
+p.redaction
+{ line-height: 1.5;
+  text-align: center; }
 
-p.digitised { margin-bottom: 10rem; }
+p.noindent
+{ text-indent: 0; }
 
 p.double-quote
 { margin-top: 0.5rem;
@@ -125,6 +70,19 @@ p.quote
   font-size: 1.2rem;
   text-indent: 0; }
 
+p.list
+{ margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-indent: 0; }
+
+.reverse-indent-list ul
+{ margin: 0.75rem 0; }
+
+.reverse-indent-list li
+{ text-indent: -1rem;
+  font-size: 1.2rem;
+  margin: 0; }
+
 footer
 { margin-top: 32rem;
   line-height: 1.4rem;
@@ -136,6 +94,7 @@ footer
 
 ol, ul
 { padding-left: 1rem;
+  font-size: 1.4rem;
   text-align: left; }
 
 ul
@@ -154,11 +113,16 @@ img
 { margin: 2rem auto;
   display: block; }
 
+p.initial:first-letter
+{ font-size: 6rem;
+  float: left;
+  margin-right: 0.5rem; }
+
 p.signature
 { text-align: right;
-  text-transform: uppercase;
+  padding-right: 2rem;
   font-size: 1.2rem;
-  margin: 2rem 0; }
+  margin-bottom: 2rem; }
 
 span.signature
 { display: inline-block;
@@ -170,10 +134,8 @@ p.date
   margin: 2rem 0; }
 
 span.smallcaps
-{ font-weight: 600; }
+{ font-weight: 600;
+  font-size: 1.3rem; }
 
 span.normal
 { text-transform: none; }
-
-li > p
-{ text-indent: 0; }

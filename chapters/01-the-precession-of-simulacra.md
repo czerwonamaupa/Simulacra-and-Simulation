@@ -5,9 +5,12 @@ hides the fact that there is none.
 
 The simulacrum is true.
 
-<p class="signature"> —Ecclesiastes </p>
+<p class="signature">
+—Ecclesiastes
+</p>
 
-<p class="initial"> If once we were able to view the Borges fable
+<p class="initial">
+If once we were able to view the Borges fable
 in which the cartographers of the Empire draw up a map so
 detailed that it ends up covering the territory exactly (the
 decline of the Empire witnesses the fraying of this map, little
@@ -21,7 +24,8 @@ come full circle for us, and possesses nothing but the discrete
 charm of second-order simulacra.^[Cf. J. Baudrillard, "L'ordre
 des simulacres" (The order of simulacra), in *L'echange symbolique
 et la mort* (Symbolic exchange and death) (Paris: Gallimard,
-1976).] </p>
+1976).]
+</p>
 
 Today abstraction is no longer that of the map, the double, the
 mirror, or the concept. Simulation is no longer that of a
@@ -85,7 +89,8 @@ differences.
 
 ## The Divine Irreference of Images ##
 
-<p class="noindent"> To dissimulate is to pretend not to have
+<p class="noindent">
+To dissimulate is to pretend not to have
 what one has. To simulate is to feign to have what one doesn't
 have. One implies a presence, the other an absence. But it is
 more complicated than that because simulating is not pretending:
@@ -110,7 +115,8 @@ symptom of the organic order to the unconscious order: the latter
 is new and taken for "real" more real than the other—but why
 would simulation be at the gates of the unconscious? Why couldn't
 the "work" of the unconscious be "produced" in the same way as
-any old symptom of classical medicine? Dreams already are. </p>
+any old symptom of classical medicine? Dreams already are.
+</p>
 
 Certainly, the psychiatrist purports that "for every form of
 mental alienation there is a particular order in the succession
@@ -231,7 +237,8 @@ Such would be the successive phases of the image:
 * it masks and denatures a profound reality;  
 * it masks the absence of a profound reality;  
 * it has no relation to any reality whatsoever: it is its own
-pure simulacrum. :::
+pure simulacrum.
+:::
 
 In the first case, the image is a *good*
 appearance—representation is of the sacramental order. In the
@@ -264,7 +271,8 @@ deterrence.
 
 ## Ramses, or the Rosy-Colored Resurrection ##
 
-<p class="noindent"> Ethnology brushed up against its paradoxical
+<p class="noindent">
+Ethnology brushed up against its paradoxical
 death in 1971, the day when the Philippine government decided to
 return the few dozen Tasaday who had just been discovered in the
 depths of the jungle, where they had lived for eight centuries
@@ -272,7 +280,8 @@ without any contact with the rest of the species, to their
 primitive state, out of the reach of colonizers, tourists, and
 ethnologists. This at the suggestion of the anthropologists
 themselves, who were seeing the indigenous people disintegrate
-immediately upon contact, like mummies in the open air. </p>
+immediately upon contact, like mummies in the open air.
+</p>
 
 In order for ethnology to live, its object must die; by dying,
 the object takes its revenge for being "discovered" and with its
@@ -470,7 +479,8 @@ light of their model, like the faces in funeral homes.
 
 ## The Hyperreal and the Imaginary ##
 
-<p class="noindent"> Disneyland is a perfect model of all the
+<p class="noindent">
+Disneyland is a perfect model of all the
 entangled orders of simulacra. It is first of all a play of
 illusions and phantasms: the Pirates, the Frontier, the Future
 World, etc. This imaginary world is supposed to ensure the
@@ -490,7 +500,8 @@ coincidence (but this derives without a doubt from the
 enchantment inherent to this universe), this frozen, childlike
 world is found to have been conceived and realized by a man who
 is himself now cryogenized: Walt Disney, who awaits his
-resurrection through an increase of 180 degrees centigrade. </p>
+resurrection through an increase of 180 degrees centigrade.
+</p>
 
 Thus, everywhere in Disneyland the objective profile of America,
 down to the morphology of individuals and of the crowd, is drawn.
@@ -568,7 +579,8 @@ undiscoverable contradictions.
 
 ## Political Incantation ##
 
-<p class="noindent"> Watergate. The same scenario as in
+<p class="noindent">
+Watergate. The same scenario as in
 Disneyland (effect of the imaginary concealing that reality no
 more exists outside than inside the limits of the artificial
 perimeter): here the scandal effect hiding that there is no
@@ -576,7 +588,8 @@ difference between the facts and their denunciation (identical
 methods on the part of the CIA and of the *Washington Post*
 journalists). Same operation, tending to regenerate through
 scandal a moral and political principle, through the imaginary, a
-sinking reality principle. </p>
+sinking reality principle.
+</p>
 
 The denunciation of scandal is always an homage to the law. And
 Watergate in particular succeeded in imposing the idea that
@@ -642,7 +655,8 @@ law.
 
 ## Möbius—spiraling Negativity ##
 
-<p class="noindent"> Watergate was thus nothing but a lure held
+<p class="noindent">
+Watergate was thus nothing but a lure held
 out by the system to catch its adversaries—a simulation of
 scandal for regenerative ends. In the film, this is embodied by
 the character of "Deep Throat," who was said to be the eminence
@@ -665,7 +679,8 @@ of any act or event in a system where linear continuity and
 dialectical polarity no longer exist, in a field *unhinged by
 simulation*, all determination evaporates, every act is
 terminated at the end of the cycle having benefited everyone and
-having been scattered in all directions. </p>
+having been scattered in all directions.
+</p>
 
 Is any given bombing in Italy the work of leftist extremists, or
 extreme-right provocation, or a centrist mise-en-scène to
@@ -715,7 +730,8 @@ take power in Italy which may seem self-evident, but not as much
 as you might think, because
 * it could mean the opposite (no need for psychoanalysis here): I
 am afraid to see the Communists take power (and there are good
-reasons for that, even for a Communist). :::
+reasons for that, even for a Communist).
+:::
 
 All of this is simultaneously true. It is the secret of a
 discourse that is no longer simply ambiguous, as political
@@ -784,7 +800,8 @@ taking into account:
 * the proof of theater through antitheater;
 * the proof of art through antiart;
 * the proof of pedagogy through antipedagogy;
-* the proof of psychiatry through antipsychiatry, etc. :::
+* the proof of psychiatry through antipsychiatry, etc.
+:::
 
 Everything is metamorphosed into its opposite to perpetuate
 itself in its expurgated form. All the powers, all the
@@ -810,12 +827,14 @@ dead.
 
 ## THE STRATEGY OF THE REAL ##
 
-<p class="noindent"> The impossibility of rediscovering an
+<p class="noindent">
+The impossibility of rediscovering an
 absolute level of the real is of the same order as the
 impossibility of staging illusion. Illusion is no longer
 possible, because the real is no longer possible. It is the whole
 *political* problem of parody, of hypersimulation or offensive
-simulation, that is posed here. </p>
+simulation, that is posed here.
+</p>
 
 For example: it would be interesting to see whether the
 repressive apparatus would not react more violently to a

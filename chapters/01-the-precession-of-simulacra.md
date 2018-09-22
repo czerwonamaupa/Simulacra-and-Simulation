@@ -653,7 +653,7 @@ is not a scandal to be denounced according to moral or economic
 rationality, but a challenge to take up according to symbolic
 law.
 
-## Möbius—spiraling Negativity ##
+## Möbius-Spiraling Negativity ##
 
 <p class="noindent">
 Watergate was thus nothing but a lure held
@@ -825,7 +825,7 @@ break the vicious circle of its irresponsibility and of its
 fundamental nonexistence, of its already seen and of its already
 dead.
 
-## THE STRATEGY OF THE REAL ##
+## The Strategy of the Real ##
 
 <p class="noindent">
 The impossibility of rediscovering an

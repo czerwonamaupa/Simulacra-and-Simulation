@@ -118,3 +118,10 @@ a:link
 span.smallcaps
 { font-weight: 600;
   font-size: 1.3rem; }
+
+.footnotes ol
+{ padding-left: 2rem; }
+
+.footnotes p
+{ margin-left: -2rem;
+  text-indent: 2rem; }

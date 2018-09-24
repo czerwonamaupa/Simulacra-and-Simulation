@@ -5,11 +5,11 @@ hides the fact that there is none.
 
 The simulacrum is true.
 
-<p class="signature">
+:::{.signature}
 —Ecclesiastes
-</p>
+:::
 
-<p class="initial">
+:::{.initial}
 If once we were able to view the Borges fable
 in which the cartographers of the Empire draw up a map so
 detailed that it ends up covering the territory exactly (the
@@ -25,7 +25,7 @@ charm of second-order simulacra.^[Cf. J. Baudrillard, "L'ordre
 des simulacres" (The order of simulacra), in *L'echange symbolique
 et la mort* (Symbolic exchange and death) (Paris: Gallimard,
 1976).]
-</p>
+:::
 
 Today abstraction is no longer that of the map, the double, the
 mirror, or the concept. Simulation is no longer that of a
@@ -89,7 +89,7 @@ differences.
 
 ## The Divine Irreference of Images ##
 
-<p class="noindent">
+:::{.noindent}
 To dissimulate is to pretend not to have
 what one has. To simulate is to feign to have what one doesn't
 have. One implies a presence, the other an absence. But it is
@@ -116,7 +116,7 @@ is new and taken for "real" more real than the other—but why
 would simulation be at the gates of the unconscious? Why couldn't
 the "work" of the unconscious be "produced" in the same way as
 any old symptom of classical medicine? Dreams already are.
-</p>
+:::
 
 Certainly, the psychiatrist purports that "for every form of
 mental alienation there is a particular order in the succession
@@ -232,13 +232,11 @@ representation itself as a simulacrum.
 
 Such would be the successive phases of the image:
 
-:::{.reverse-indent-list}
 * it is the reflection of a profound reality;  
 * it masks and denatures a profound reality;  
 * it masks the absence of a profound reality;  
 * it has no relation to any reality whatsoever: it is its own
 pure simulacrum.
-:::
 
 In the first case, the image is a *good*
 appearance—representation is of the sacramental order. In the
@@ -271,7 +269,7 @@ deterrence.
 
 ## Ramses, or the Rosy-Colored Resurrection ##
 
-<p class="noindent">
+:::{.noindent}
 Ethnology brushed up against its paradoxical
 death in 1971, the day when the Philippine government decided to
 return the few dozen Tasaday who had just been discovered in the
@@ -281,7 +279,7 @@ primitive state, out of the reach of colonizers, tourists, and
 ethnologists. This at the suggestion of the anthropologists
 themselves, who were seeing the indigenous people disintegrate
 immediately upon contact, like mummies in the open air.
-</p>
+:::
 
 In order for ethnology to live, its object must die; by dying,
 the object takes its revenge for being "discovered" and with its
@@ -479,7 +477,7 @@ light of their model, like the faces in funeral homes.
 
 ## The Hyperreal and the Imaginary ##
 
-<p class="noindent">
+:::{.noindent}
 Disneyland is a perfect model of all the
 entangled orders of simulacra. It is first of all a play of
 illusions and phantasms: the Pirates, the Frontier, the Future
@@ -501,7 +499,7 @@ enchantment inherent to this universe), this frozen, childlike
 world is found to have been conceived and realized by a man who
 is himself now cryogenized: Walt Disney, who awaits his
 resurrection through an increase of 180 degrees centigrade.
-</p>
+:::
 
 Thus, everywhere in Disneyland the objective profile of America,
 down to the morphology of individuals and of the crowd, is drawn.
@@ -579,7 +577,7 @@ undiscoverable contradictions.
 
 ## Political Incantation ##
 
-<p class="noindent">
+:::{.noindent}
 Watergate. The same scenario as in
 Disneyland (effect of the imaginary concealing that reality no
 more exists outside than inside the limits of the artificial
@@ -589,7 +587,7 @@ methods on the part of the CIA and of the *Washington Post*
 journalists). Same operation, tending to regenerate through
 scandal a moral and political principle, through the imaginary, a
 sinking reality principle.
-</p>
+:::
 
 The denunciation of scandal is always an homage to the law. And
 Watergate in particular succeeded in imposing the idea that
@@ -655,7 +653,7 @@ law.
 
 ## Möbius-Spiraling Negativity ##
 
-<p class="noindent">
+:::{.noindent}
 Watergate was thus nothing but a lure held
 out by the system to catch its adversaries—a simulation of
 scandal for regenerative ends. In the film, this is embodied by
@@ -680,7 +678,7 @@ dialectical polarity no longer exist, in a field *unhinged by
 simulation*, all determination evaporates, every act is
 terminated at the end of the cycle having benefited everyone and
 having been scattered in all directions.
-</p>
+:::
 
 Is any given bombing in Italy the work of leftist extremists, or
 extreme-right provocation, or a centrist mise-en-scène to
@@ -716,7 +714,6 @@ Left—or do they no longer want it, by definition? When Berlinguer
 declares: "There is no need to be afraid to see the Communists
 take power in Italy," it simultaneously signifies:
 
-:::{.reverse-indent-list}
 * that there is no need to be afraid, since the Communists, if
 they come to power, will change nothing of its fundamental
 capitalist mechanism;
@@ -731,7 +728,6 @@ as you might think, because
 * it could mean the opposite (no need for psychoanalysis here): I
 am afraid to see the Communists take power (and there are good
 reasons for that, even for a Communist).
-:::
 
 All of this is simultaneously true. It is the secret of a
 discourse that is no longer simply ambiguous, as political
@@ -796,12 +792,10 @@ capital through revolution, as it is elsewhere (the Tasaday) of
 proving ethnology through the dispossession of its object—without
 taking into account:
 
-:::{.reverse-indent-list}
 * the proof of theater through antitheater;
 * the proof of art through antiart;
 * the proof of pedagogy through antipedagogy;
 * the proof of psychiatry through antipsychiatry, etc.
-:::
 
 Everything is metamorphosed into its opposite to perpetuate
 itself in its expurgated form. All the powers, all the
@@ -827,14 +821,14 @@ dead.
 
 ## The Strategy of the Real ##
 
-<p class="noindent">
+:::{.noindent}
 The impossibility of rediscovering an
 absolute level of the real is of the same order as the
 impossibility of staging illusion. Illusion is no longer
 possible, because the real is no longer possible. It is the whole
 *political* problem of parody, of hypersimulation or offensive
 simulation, that is posed here.
-</p>
+:::
 
 For example: it would be interesting to see whether the
 repressive apparatus would not react more violently to a
@@ -1189,6 +1183,7 @@ of simulation, even and especially if they are revolutionary.
 
 ## The End of the Panopticon ##
 
+:::{.noindent}
 It is still to this ideology of lived experience—exhumation of
 the real in its fundamental banality, in its radical
 authenticity—that the American TV verité experiment attempted on
@@ -1202,6 +1197,7 @@ on the moon." It becomes more complicated because this family
 fell apart during the filming: a crisis erupted, the Louds
 separated, etc. Whence that insoluble controversy: was TV itself
 responsible? What would have happened if TV *hadn't been there?*
+:::
 
 More interesting is the illusion of filming the Louds *as if TV
 weren't there*. The producer's triumph was to say: "They lived as
@@ -1381,6 +1377,7 @@ indecipherable.
 
 ## The Orbital and the Nuclear ##
 
+:::{.noindent}
 The apotheosis of simulation: the nuclear. However, the balance
 of terror is never anything but the spectacular slope of a system
 of deterrence that has insinuated itself from the *inside* into
@@ -1398,6 +1395,7 @@ everything and reduces all "ground-level" events to being nothing
 but ephemeral scenarios, transforming the life left us into
 survival, into a stake without stakes—not even into a life
 insurance policy: into a policy that already has no value).
+:::
 
 It is not the direct threat of atomic destruction that paralyzes
 our lives, it is deterrence that gives them leukemia. And this

@@ -3,28 +3,30 @@
 % 1981
 
 # #
-<h1 class="title">
+
+:::{.title}
 Simulacra  
 [and]{.title-small}  
 Simulation
-</h1>
+:::
 
-<h2 class="authors">
+:::{.authors}
 By  
 Jean Baudrillard  
 Translated by  
 Sheila Faria Glaser
-</h2>
+:::
 
-<p class="redaction">
+:::{.redaction}
 Ann Arbor  
 The University  
 of Michigan  
 Press
-</p>
+:::
 
 # Contents #
 
+:::{.contents}
 * [The Precession of Simulacra]
 * [History: A Retro Scenario]
 * *[Holocaust]*
@@ -43,3 +45,4 @@ Press
 * [The Spiraling Cadaver]
 * [Value's Last Tango]
 * [On Nihilism]
+:::

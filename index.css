@@ -16,15 +16,6 @@ h1
   text-transform: uppercase;
   line-height: 1; }
 
-h1.title
-{ font-size: 3rem;
-  margin-bottom: 10rem; }
-
-h1 > span.title-small
-{ text-transform: uppercase;
-  text-align: center;
-  font-size: 2.4rem; }
-
 h2
 { font-weight: 400;
   margin-top: 2rem;
@@ -35,12 +26,6 @@ h2
   text-align: center;
   text-indent: 0; }
 
-h2.authors
-{ text-transform: uppercase;
-  line-height: 1.5;
-  font-weight: 500;
-  margin-bottom: 10rem; }
-
 p
 { font-size: 1.2rem;
   line-height: 1.4rem;
@@ -49,39 +34,41 @@ p
   text-align: justify;
   text-indent: 1rem; }
 
-p.redaction
+.title p
+{ font-weight: 600;
+  margin-top: 3rem;
+  margin-bottom: 5rem;
+  font-size: 2rem;
+  text-align: center;
+  text-indent: 0;
+  text-transform: uppercase;
+  line-height: 1;
+  font-size: 3rem;
+  margin-bottom: 10rem; }
+
+.title span.title-small
+{ font-size: 2.4rem; }
+
+.authors p
+{ font-weight: 400;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-variant: small-caps;
+  line-height: 1;
+  text-align: center;
+  text-indent: 0;
+  text-transform: uppercase;
+  line-height: 1.5;
+  font-weight: 500;
+  margin-bottom: 10rem; }
+
+.redaction p
 { line-height: 1.5;
   text-align: center; }
 
-p.noindent
+.noindent p
 { text-indent: 0; }
-
-p.double-quote
-{ margin-top: 0.5rem;
-  padding-left: 3rem;
-  line-height: 1.4rem;
-  font-size: 1.2rem;
-  text-indent: 0; }
-
-p.quote
-{ margin-top: 0.5rem;
-  padding-left: 1.5rem;
-  line-height: 1.4rem;
-  font-size: 1.2rem;
-  text-indent: 0; }
-
-p.list
-{ margin-top: 1rem;
-  margin-bottom: 1rem;
-  text-indent: 0; }
-
-.reverse-indent-list ul
-{ margin: 0.75rem 0; }
-
-.reverse-indent-list li
-{ text-indent: -1rem;
-  font-size: 1.2rem;
-  margin: 0; }
 
 footer
 { margin-top: 32rem;
@@ -92,16 +79,24 @@ footer
   margin-right: auto;
   width: 28rem; }
 
-ol, ul
-{ padding-left: 1rem;
-  font-size: 1.4rem;
-  text-align: left; }
-
 ul
-{ list-style: none; }
+{ margin: 0.75rem 0;
+  padding: 0 1rem;
+  list-style: none; }
 
 li
-{ margin: 1rem 0; }
+{ text-indent: -1rem;
+  font-size: 1.2rem;
+  margin: 0; }
+
+.contents ul
+{ padding-left: 4rem;
+  list-style: none;
+  text-align: left; }
+
+.contents li
+{ margin: 1rem 0;
+  font-size: 1.4rem; }
 
 a:link, a:visited
 { color: inherit; }
@@ -109,33 +104,17 @@ a:link, a:visited
 a:link
 { text-decoration: none; }
 
-img
-{ margin: 2rem auto;
-  display: block; }
-
-p.initial:first-letter
+.initial p:first-letter
 { font-size: 6rem;
   float: left;
   margin-right: 0.5rem; }
 
-p.signature
+.signature p
 { text-align: right;
   padding-right: 2rem;
   font-size: 1.2rem;
   margin-bottom: 2rem; }
 
-span.signature
-{ display: inline-block;
-  padding-left: 1rem; }
-
-p.date
-{ text-indent: 0;
-  font-style: italic;
-  margin: 2rem 0; }
-
 span.smallcaps
 { font-weight: 600;
   font-size: 1.3rem; }
-
-span.normal
-{ text-transform: none; }

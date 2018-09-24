@@ -123,8 +123,10 @@ span.smallcaps
   font-size: 1.3rem; }
 
 .footnotes ol
-{ padding-left: 2rem; }
+{ padding-left: 3rem; }
 
 .footnotes p
-{ margin-left: -2rem;
-  text-indent: 2rem; }
+{ margin-left: -3rem; }
+
+.footnotes p:first-child
+{ text-indent: 3rem; }

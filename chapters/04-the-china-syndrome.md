@@ -1,4 +1,4 @@
-# THE CHINA SYNDROME #
+# *The China Syndrome* #
 
 The fundamental stake is at the level of television and information. Just as the
 extermination of the Jews disappeared behind the televised event Holocaust - the cold

@@ -1,4 +1,4 @@
-# APOCALYPSE NOW #
+# *Apocalypse Now* #
 
 Coppola makes his film like the Americans made war - in this sense, it is the best
 possible testimonial - with the same immoderation, the same excess of means, the same

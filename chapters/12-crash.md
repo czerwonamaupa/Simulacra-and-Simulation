@@ -1,4 +1,4 @@
-# CRASH #
+# *Crash* #
 
 From a classical (even cybernetic) perspective, technology is an extension of the body. It
 is the functional sophistication of a human organism that permits it to be equal to nature

@@ -109,6 +109,9 @@ a:link
   float: left;
   margin-right: 0.5rem; }
 
+.initial p
+{ text-indent: 0; }
+
 .signature p
 { text-align: right;
   padding-right: 2rem;

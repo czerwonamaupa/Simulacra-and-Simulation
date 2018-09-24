@@ -29,16 +29,16 @@ Press
 :::{.contents}
 * [The Precession of Simulacra]
 * [History: A Retro Scenario]
-* *[Holocaust]*
-* *[The China Syndrome]*
-* *[Apocalypse Now]*
+* [*Holocaust*]
+* [*The China Syndrome*]
+* [*Apocalypse Now*]
 * [The Beaubourg Effect: Implosion and Deterrence]
 * [Hypermarket and Hypercommodity]
 * [The Implosion of Meaning in the Media]
 * [Absolute Advertising, Ground-Zero Advertising]
 * [Clone Story]
 * [Holograms]
-* *[Crash]*
+* [*Crash*]
 * [Simulacra and Science Fiction]
 * [The Animals: Territory and Metamorphoses]
 * [The Remainder]

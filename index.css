@@ -11,6 +11,7 @@ h1
 { font-weight: 600;
   margin-top: 3rem;
   margin-bottom: 5rem;
+  padding: 0 5rem;
   font-size: 2rem;
   text-align: center;
   text-transform: uppercase;
@@ -115,8 +116,7 @@ a:link
 .signature p
 { text-align: right;
   padding-right: 2rem;
-  font-size: 1.2rem;
-  margin-bottom: 2rem; }
+  font-size: 1.2rem; }
 
 span.smallcaps
 { font-weight: 600;
@@ -130,3 +130,6 @@ span.smallcaps
 
 .footnotes p:first-child
 { text-indent: 3rem; }
+
+blockquote
+{ margin: 1rem; }

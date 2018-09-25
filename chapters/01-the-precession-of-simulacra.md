@@ -1,13 +1,13 @@
 # The Precession of Simulacra #
 
-The simulacrum is never what hides the truth—it is truth that
-hides the fact that there is none.
-
-The simulacrum is true.
-
-:::{.signature}
-—Ecclesiastes
-:::
+>The simulacrum is never what hides the truth—it is truth that
+>hides the fact that there is none.
+>
+>The simulacrum is true.
+>
+>:::{.signature}
+>—Ecclesiastes
+>:::
 
 :::{.initial}
 If once we were able to view the Borges fable

@@ -66,6 +66,7 @@ p
 
 .redaction p
 { line-height: 1.5;
+  text-indent: 0;
   text-align: center; }
 
 .noindent p

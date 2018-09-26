@@ -161,7 +161,7 @@ The question: "What should have been placed in Beaubourg?" is
 thus absurd. It cannot be answered because the topical
 distinction between interior and exterior should no longer be
 posed. There lies our truth, the truth of Möbius-doubtless an
-unrealizable Utopia, but which Beaubourg still points to as
+unrealizable utopia, but which Beaubourg still points to as
 right, to the degree to which any of its contents is a
 *countermeaning* and annihilated in advance by the form.
 

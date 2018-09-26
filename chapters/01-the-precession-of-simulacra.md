@@ -221,9 +221,9 @@ uninterrupted circuit without reference or circumference.
 
 Such is simulation, insofar as it is opposed to representation.
 Representation stems from the principle of the equivalence of the
-sign and of the real (even if this equivalence is Utopian, it is
+sign and of the real (even if this equivalence is utopian, it is
 a fundamental axiom). Simulation, on the contrary, stems from the
-Utopia of the principle of equivalence, *from the radical
+utopia of the principle of equivalence, *from the radical
 negation of the sign as value*, from the sign as the reversion
 and death sentence of every reference. Whereas representation
 attempts to absorb simulation by interpreting it as a false
@@ -1202,8 +1202,8 @@ responsible? What would have happened if TV *hadn't been there?*
 More interesting is the illusion of filming the Louds *as if TV
 weren't there*. The producer's triumph was to say: "They lived as
 if we were not there." An absurd, paradoxical formula—neither
-true nor false: Utopian. The "as if we were not there" being
-equal to "as if you were there." It is this Utopia, this paradox
+true nor false: utopian. The "as if we were not there" being
+equal to "as if you were there." It is this utopia, this paradox
 that fascinated the twenty million viewers, much more than did
 the "perverse" pleasure of violating someone's privacy. In the
 "verité" experience it is not a question of secrecy or

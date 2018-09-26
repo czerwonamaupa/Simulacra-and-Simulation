@@ -45,7 +45,7 @@ purest form of parentage, because it finally allows one to do
 without the other, to go from the same to the same (one still has
 to use the uterus of a woman, and a pitted ovum, but this support
 is ephemeral, and in any case anonymous: a female prosthesis
-could replace it). Monocellular Utopia which, by way of genetics,
+could replace it). Monocellular utopia which, by way of genetics,
 allows complex beings to achieve the destiny of protozoas.
 
 What, if not a death drive, would push sexed beings to regress to

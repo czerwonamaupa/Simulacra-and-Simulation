@@ -71,6 +71,9 @@ p
 .noindent p
 { text-indent: 0; }
 
+.break p
+{ margin-top: 4rem; }
+
 footer
 { margin-top: 32rem;
   line-height: 1.4rem;

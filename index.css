@@ -114,6 +114,13 @@ a:link
 .initial p
 { text-indent: 0; }
 
+.initial-up p:first-letter
+{ font-size: 6rem;
+  margin-right: 0.5rem; }
+
+.initial-up p
+{ text-indent: 0; }
+
 .signature p
 { text-align: right;
   padding-right: 2rem;

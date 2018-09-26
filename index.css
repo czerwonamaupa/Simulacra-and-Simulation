@@ -130,6 +130,9 @@ span.smallcaps
 { font-weight: 600;
   font-size: 1.3rem; }
 
+span.nothing
+{ margin-right: 4rem; }
+
 .footnotes ol
 { padding-left: 3rem; }
 

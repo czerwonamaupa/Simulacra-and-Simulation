@@ -2,9 +2,7 @@
 
 body
 { width: 34rem;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0 2rem 8rem 2rem;
+  margin: 0 auto;
   font-family: serif; }
 
 h1
@@ -97,12 +95,12 @@ li
 
 .contents ul
 { padding-left: 4rem;
-  list-style: none;
-  text-align: left; }
+  list-style: none; }
 
 .contents li
 { margin: 1rem 0;
-  font-size: 1.4rem; }
+  font-size: 1.4rem;
+  text-align: left; }
 
 a:link, a:visited
 { color: inherit; }
@@ -113,7 +111,8 @@ a:link
 .initial p:first-letter
 { font-size: 6rem;
   float: left;
-  margin-right: 0.5rem; }
+  margin-right: 0.5rem;
+  line-height: 4rem; }
 
 .initial p
 { text-indent: 0; }

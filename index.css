@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+@font-face
+{ font-family: serif;
+  src: url(LinLibertine_R.woff); }
+
 body
 { width: 34rem;
   margin: 0 auto;

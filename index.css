@@ -1,15 +1,31 @@
 @charset "UTF-8";
 
 @font-face
-{ font-family: serif;
+{ font-family: libertine;
   src: url(LinLibertine_R.woff); }
+
+@font-face
+{ font-family: libertine;
+  font-style: italic;
+  src: url(LinLibertine_RI.woff); }
+
+@font-face
+{ font-family: libertine;
+  font-weight: bold;
+  src: url(LinLibertine_RB.woff); }
+
+@font-face
+{ font-family: libertine;
+  font-weight: bold;
+  font-style: italic;
+  src: url(LinLibertine_RBI.woff); }
 
 html
 { font-size: 0.7rem; }
 
 body
 { padding: 1rem;
-  font-family: serif; }
+  font-family: libertine, serif; }
 
 @media (min-width: 34rem)
 { html

@@ -161,3 +161,6 @@ span.nothing
 
 blockquote
 { margin: 1rem; }
+
+sup
+{ line-height: 0; }

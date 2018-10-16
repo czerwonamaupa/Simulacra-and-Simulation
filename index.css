@@ -4,10 +4,20 @@
 { font-family: serif;
   src: url(LinLibertine_R.woff); }
 
+html
+{ font-size: 0.7rem; }
+
 body
-{ width: 34rem;
-  margin: 0 auto;
+{ padding: 1rem;
   font-family: serif; }
+
+@media (min-width: 34rem)
+{ html
+  { font-size: 1rem; }
+
+  body
+  { width: 34rem;
+    margin: 0 auto; } }
 
 h1
 { font-weight: 600;

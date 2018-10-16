@@ -4,6 +4,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width" />
   <title>$pagetitle$</title>
   <style type="text/css">
       code{white-space: pre-wrap;}

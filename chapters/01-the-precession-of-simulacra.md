@@ -10,21 +10,20 @@
 >:::
 
 :::{.initial}
-If once we were able to view the Borges fable
-in which the cartographers of the Empire draw up a map so
-detailed that it ends up covering the territory exactly (the
-decline of the Empire witnesses the fraying of this map, little
-by little, and its fall into ruins, though some shreds are still
-discernible in the deserts—the metaphysical beauty of this ruined
-abstraction testifying to a pride equal to the Empire and rotting
-like a carcass, returning to the substance of the soil, a bit as
-the double ends by being confused with the real through aging)—as
-the most beautiful allegory of simulation, this fable has now
-come full circle for us, and possesses nothing but the discrete
-charm of second-order simulacra.^[Cf. J. Baudrillard, "L'ordre
-des simulacres" (The order of simulacra), in *L'echange symbolique
-et la mort* (Symbolic exchange and death) (Paris: Gallimard,
-1976).]
+If once we were able to view the Borges fable in which the
+cartographers of the Empire draw up a map so detailed that it
+ends up covering the territory exactly (the decline of the Empire
+witnesses the fraying of this map, little by little, and its fall
+into ruins, though some shreds are still discernible in the
+deserts—the metaphysical beauty of this ruined abstraction
+testifying to a pride equal to the Empire and rotting like a
+carcass, returning to the substance of the soil, a bit as the
+double ends by being confused with the real through aging)—as the
+most beautiful allegory of simulation, this fable has now come
+full circle for us, and possesses nothing but the discrete charm
+of second-order simulacra.^[Cf. J. Baudrillard, "L'ordre des
+simulacres" (The order of simulacra), in *L'echange symbolique et
+la mort* (Symbolic exchange and death) (Paris: Gallimard, 1976).]
 :::
 
 Today abstraction is no longer that of the map, the double, the
@@ -50,7 +49,7 @@ and the other, that constituted the charm of abstraction. Because
 it is difference that constitutes the poetry of the map and the
 charm of the territory, the magic of the concept and the charm of
 the real. This imaginary of representation, which simultaneously
-culminates in and is engulfed by the cartographers mad project of
+culminates in and is engulfed by the cartographer's mad project of
 the ideal coextensivity of map and territory, disappears in the
 simulation whose operation is nuclear and genetic, no longer at
 all specular or discursive. It is all of metaphysics that is
@@ -90,32 +89,32 @@ differences.
 ## The Divine Irreference of Images ##
 
 :::{.noindent}
-To dissimulate is to pretend not to have
-what one has. To simulate is to feign to have what one doesn't
-have. One implies a presence, the other an absence. But it is
-more complicated than that because simulating is not pretending:
-"Whoever fakes an illness can simply stay in bed and make
-everyone believe he is ill. Whoever simulates an illness produces
-in himself some of the symptoms" (Littré). Therefore, pretending,
-or dissimulating, leaves the principle of reality intact: the
-difference is always clear, it is simply masked, whereas
-simulation threatens the difference between the "true" and the
-"false," the "real" and the "imaginary." Is the simulator sick or
-not, given that he produces "true" symptoms? Objectively one
-cannot treat him as being either ill or not ill. Psychology and
-medicine stop at this point, forestalled by the illness's
-henceforth undiscoverable truth. For if any symptom can be
-"produced," and can no longer be taken as a fact of nature, then
-every illness can be considered as simulatable and simulated, and
-medicine loses its meaning since it only knows how to treat
-"real" illnesses according to their objective causes.
-Psychosomatics evolves in a dubious manner at the borders of the
-principle of illness. As to psychoanalysis, it transfers the
-symptom of the organic order to the unconscious order: the latter
-is new and taken for "real" more real than the other—but why
-would simulation be at the gates of the unconscious? Why couldn't
-the "work" of the unconscious be "produced" in the same way as
-any old symptom of classical medicine? Dreams already are.
+To dissimulate is to pretend not to have what one has. To
+simulate is to feign to have what one doesn't have. One implies a
+presence, the other an absence. But it is more complicated than
+that because simulating is not pretending: "Whoever fakes an
+illness can simply stay in bed and make everyone believe he is
+ill. Whoever simulates an illness produces in himself some of the
+symptoms" (Littré). Therefore, pretending, or dissimulating,
+leaves the principle of reality intact: the difference is always
+clear, it is simply masked, whereas simulation threatens the
+difference between the "true" and the "false," the "real" and the
+"imaginary." Is the simulator sick or not, given that he produces
+"true" symptoms? Objectively one cannot treat him as being either
+ill or not ill. Psychology and medicine stop at this point,
+forestalled by the illness's henceforth undiscoverable truth. For
+if any symptom can be "produced," and can no longer be taken as a
+fact of nature, then every illness can be considered as
+simulatable and simulated, and medicine loses its meaning since
+it only knows how to treat "real" illnesses according to their
+objective causes. Psychosomatics evolves in a dubious manner at
+the borders of the principle of illness. As to psychoanalysis, it
+transfers the symptom of the organic order to the unconscious
+order: the latter is new and taken for "real" more real than the
+other—but why would simulation be at the gates of the
+unconscious? Why couldn't the "work" of the unconscious be
+"produced" in the same way as any old symptom of classical
+medicine? Dreams already are.
 :::
 
 Certainly, the psychiatrist purports that "for every form of
@@ -197,7 +196,7 @@ nothing behind them).
 
 This was the approach of the Jesuits, who founded their politics
 on the virtual disappearance of God and on the worldly and
-spectacular manipulation of consciences the evanescence of God in
+spectacular manipulation of consciences—the evanescence of God in
 the epiphany of power—the end of transcendence, which now only
 serves as an alibi for a strategy altogether free of influences
 and signs. Behind the baroqueness of images hides the éminence
@@ -492,7 +491,7 @@ and in the sufficient and excessive number of gadgets necessary
 to create the multitudinous effect. The contrast with the
 absolute solitude of the parking lot—a veritable concentration
 camp—is total. Or, rather: inside, a whole panoply of gadgets
-magnetizes the crowd in directed flows outside, solitude is
+magnetizes the crowd in directed flows—outside, solitude is
 directed at a single gadget: the automobile. By an extraordinary
 coincidence (but this derives without a doubt from the
 enchantment inherent to this universe), this frozen, childlike
@@ -657,7 +656,7 @@ law.
 Watergate was thus nothing but a lure held
 out by the system to catch its adversaries—a simulation of
 scandal for regenerative ends. In the film, this is embodied by
-the character of "Deep Throat," who was said to be the eminence
+the character of "Deep Throat," who was said to be the éminence
 grise of the Republicans, manipulating the left-wing journalists
 in order to get rid of Nixon—and why not? All hypotheses are
 possible, but this one is superfluous: the Left itself does a
@@ -814,7 +813,7 @@ preserve the *blessing* of power. But it is lost.
 
 To seek new blood in its own death, to renew the cycle through
 the mirror of crisis, negativity, and antipower: this is the only
-solution—alibi of every power, of every institution attempting to
+solution-alibi of every power, of every institution attempting to
 break the vicious circle of its irresponsibility and of its
 fundamental nonexistence, of its already seen and of its already
 dead.
@@ -979,7 +978,7 @@ overproduce, is to restore the real that escapes it. That is why
 *today this "material" production is that of the hyperreal
 itself*. It retains all the features, the whole discourse of
 traditional production, but it is no longer anything but its
-scaled-down refraction (thus hyper-realists fix a real from which
+scaled-down refraction (thus hyperrealists fix a real from which
 all meaning and charm, all depth and energy of representation
 have vanished in a hallucinatory resemblance). Thus everywhere
 the hyperrealism of simulation is translated by the hallucinatory
@@ -1011,12 +1010,12 @@ murder as if they were the ones who had suppressed it—which is
 true phantasmatically, if not in fact. They must efface this
 defect and this complicity with their simulated murder. Because,
 now it can only be simulated. Presidents Johnson and Ford were
-both the object of failed assassination attempts which, they were
-not staged, were at least perpetrated by simulation. The Kennedys
-died because they incarnated something: the political, political
-substance, whereas the new presidents are nothing but caricatures
-and fake film curiously, Johnson, Nixon, Ford, all have this
-simian mug, the monkeys of power.
+both the object of failed assassination attempts which, if they
+were not staged, were at least perpetrated by simulation. The
+Kennedys died because they incarnated something: the political,
+political substance, whereas the new presidents are nothing but
+caricatures and fake film—curiously, Johnson, Nixon, Ford, all
+have this simian mug, the monkeys of power.
 
 Death is never an absolute criterion, but in this case it is
 significant: the era of James Dean, Marilyn Monroe, and the
@@ -1470,7 +1469,7 @@ of which the lunar module is the perfect embryo? Programmed
 microcosm, where *nothing can be left to chance*. Trajectory,
 energy, calculation, physiology, psychology, environment—nothing
 can be left to contingencies, this is the total universe of the
-norm the Law no longer exists, it is the operational immanence of
+norm—the Law no longer exists, it is the operational immanence of
 every detail that is law. A universe purged of all threat of
 meaning, in a state of asepsis and weightlessness—it is this very
 perfection that is fascinating. The exaltation of the crowds was
@@ -1744,7 +1743,7 @@ end of power in its classical definition. The circularization of
 power, of knowledge, of discourse puts an end to any localization
 of instances and poles. In the psychoanalytic interpretation
 itself, the "power" of the interpreter does not come from any
-outside instance but from the interpreted himself. This changes
+outside instance but from the interpreter himself. This changes
 everything, because one can always ask of the traditional holders
 of power where they get their power from. Who made you duke? The
 king. Who made you king? God. Only God no longer answers. But to
@@ -1761,7 +1760,7 @@ metastatic regulation of the images of the social and the private
 (J. Donzelot, *La police des familles* [The policing of families]).
 
     Impossible now to pose the famous question: "From what
-position do you speak?" "How do you know?" "From where do you get
+position do you speak?"—"How do you know?" "From where do you get
 your power?" without hearing the immediate response: "But it is
 of you (from you) that I speak"—meaning, it is you who are
 speaking, you who know, you who are the power. Gigantic

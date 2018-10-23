@@ -56,7 +56,7 @@ the nuclear (Harrisburg effect) or of the computer science model
 (Network effect)—the real (Harrisburg), isn't it nothing but the
 symptom of the imaginary (Network and China Syndrome) or the
 opposite? Marvelous indifferentiation, ideal constellation of
-simulation. Marvelous title, then, this China Syndrome, because
+simulation. Marvelous title, then, this *China Syndrome*, because
 the reversibility of symptoms and their convergence in the same
 process constitute precisely what we call a syndrome—that it is
 Chinese adds the poetic and intellectual quality of a conundrum
@@ -141,7 +141,7 @@ Thus, the essence of the film is not in any respect the Watergate
 effect in the person of Jane Fonda, not in any respect TV as a
 means of exposing nuclear vices, but on the contrary TV as the
 twin orbit and twin chain reaction of the nuclear one. Besides,
-just at the end—and there the film is unrelenting in Regard to
+just at the end—and there the film is unrelenting in regard to
 its own argument—when Jane Fonda makes the truth explode directly
 (maximum Watergate effect), her image is juxtaposed with what
 will inexorably follow it and efface it on the screen: a

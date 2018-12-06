@@ -2,23 +2,23 @@
 
 @font-face
 { font-family: libertine;
-  src: url(LinLibertine_R.woff); }
+  src: url(../fonts/LinLibertine_R.woff); }
 
 @font-face
 { font-family: libertine;
   font-style: italic;
-  src: url(LinLibertine_RI.woff); }
+  src: url(../fonts/LinLibertine_RI.woff); }
 
 @font-face
 { font-family: libertine;
   font-weight: bold;
-  src: url(LinLibertine_RB.woff); }
+  src: url(../fonts/LinLibertine_RB.woff); }
 
 @font-face
 { font-family: libertine;
   font-weight: bold;
   font-style: italic;
-  src: url(LinLibertine_RBI.woff); }
+  src: url(../fonts/LinLibertine_RBI.woff); }
 
 html
 { font-size: 0.7rem; }
@@ -36,17 +36,16 @@ body
     margin: 0 auto; } }
 
 h1
-{ font-weight: 600;
-  margin-top: 3rem;
-  margin-bottom: 5rem;
-  padding: 0 5rem;
+{ font-weight: bold;
+  width: 22rem;
+  margin: 3rem auto 5rem auto;
   font-size: 2rem;
   text-align: center;
   text-transform: uppercase;
   line-height: 1; }
 
 h2
-{ font-weight: 400;
+{ font-weight: normal;
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-size: 1.5rem;
@@ -63,15 +62,9 @@ p
   text-align: justify;
   text-indent: 1rem; }
 
-.title p
-{ font-weight: 600;
-  margin-top: 3rem;
-  margin-bottom: 5rem;
-  font-size: 2rem;
-  text-align: center;
+.title h1
+{ font-weight: bold;
   text-indent: 0;
-  text-transform: uppercase;
-  line-height: 1;
   font-size: 3rem;
   margin-bottom: 10rem; }
 
@@ -79,7 +72,7 @@ p
 { font-size: 2.4rem; }
 
 .authors p
-{ font-weight: 400;
+{ font-weight: normal;
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-size: 1.5rem;
@@ -89,7 +82,6 @@ p
   text-indent: 0;
   text-transform: uppercase;
   line-height: 1.5;
-  font-weight: 500;
   margin-bottom: 10rem; }
 
 .redaction p
@@ -160,7 +152,7 @@ a:link
   font-size: 1.2rem; }
 
 span.smallcaps
-{ font-weight: 600;
+{ font-weight: bold;
   font-size: 1.3rem; }
 
 span.nothing
@@ -180,3 +172,13 @@ blockquote
 
 sup
 { line-height: 0; }
+.initial p:first-letter
+{ margin: -2rem 0.5rem -2rem 0; }
+
+.initial-up
+{ margin: -1.4rem 0; }
+
+.footnote-ref
+{ font-size: 0.7rem;
+  vertical-align: text-top;
+  line-height: 0.7rem; }

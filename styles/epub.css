@@ -1,0 +1,10 @@
+.initial p:first-letter
+{ margin: -2rem 0.5rem -2rem 0; }
+
+.initial-up
+{ margin: -1.4rem 0; }
+
+.footnote-ref
+{ font-size: 0.7rem;
+  vertical-align: text-top;
+  line-height: 0.7rem; }

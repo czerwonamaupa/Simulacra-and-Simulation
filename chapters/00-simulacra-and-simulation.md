@@ -2,13 +2,7 @@
 % Jean Baudrillard
 % 1981
 
-# #
-
-:::{.title}
-Simulacra  
-[and]{.title-small}  
-Simulation
-:::
+# Simulacra [and]{.title-small} Simulation #{.title}
 
 :::{.authors}
 By  

@@ -430,60 +430,22 @@ Nothing seems more fixed in the perpetuation of the species than
 animals, but yet they are for us the image of metamorphosis, of
 all possible metamorphoses. Nothing more errant, more nomadic in
 appearance than animals, and yet their law is that of the
-territory. ^[That animals wander is a myth, and the current
-representation of the unconscious and of desire as erratic and
-nomadic belongs to the same "order. Animals have never wandered,
-were never deterritorialized. A whole liberatory phantasmagoria
-is drawn in opposition to the constraints of modern society, a
-representation of nature and of beasts as savagery, as the
-freedom to "fulfill all needs," today "of realizing all his
-desires" because modern Rousseauism has taken the form of the
-indeterminacy of drive, of the wandering of desire and of the
-nomadism of infinitude—but it is the same mystique of unleashed,
-noncoded forces with no finality other than their own eruption.
-
-Now, free, virgin nature, without limits or territories, where
-each wanders at will, never existed, except in the imaginary of
-the dominant order, of which this nature is the equivalent
-mirror. We project (nature, desire, animality, rhizome … ) the
-very schema of deterritorialization that is that of the economic
-system and of capital as ideal savagery. Liberty is nowhere but
-in capital, it is what produced it, it is what deepens it. There
-is thus an exact correlation between the social legislation of
-value (urban, industrial, repressive, etc.) and the imaginary
-savagery one places in opposition to it: they are both
-"deterritorialized" and in each other's image. Moreover, the
-radicality of "desire," one sees this in current theories,
-increases at the same rate as civilized abstraction, not at all
-antagonistically, but absolutely according to the same movement,
-that of the same form always more decoded, more decentered,
-"freer," which simultaneously envelops our real and our
-imaginary. Nature, liberty, desire, etc., do not even express a
-dream the opposite of capital, they directly translate the
-progress or the ravages of this culture, they even anticipate it,
-because they dream of total deterritorialization where the system
-never imposes anything but what is relative: the demand of
-"liberty" is never anything but going further than the system,
-but in the same direction.
-
-Neither the beasts nor the savages know "nature" in our way: they
-only know *territories*, limited, marked, which are spaces of
-insurmountable reciprocity.] But one must push aside all the
-countermeanings on this notion of territory. It is not at all the
-enlarged relation of a subject or of a group to its own space, a
-sort of organic right to private property of the individual, of
-the clan or of the species—such is the phantasm of psychology and
-of sociology extended to all of ecology—nor this sort of vital
-function, of an environmental bubble where the whole system of
-needs is summed up.^[Thus, Henri Laborit refuses the
-interpretation of territory in terms of instinct or private
-property: "One has never brought forth as evidence, either in the
-hypothalamus or elsewhere, either a cellular group or neural
-pathways that are differentiated in relation to the notion of
-territory… No territorial center seems to exist… It is not useful
-to appeal to a particular instinct"—but it is useful to do so in
-order to better return it to a functionality of needs extended to
-include cultural behaviors, which today is the vulgate common to
+territory.[^3] But one must push aside all the countermeanings on
+this notion of territory. It is not at all the enlarged relation
+of a subject or of a group to its own space, a sort of organic
+right to private property of the individual, of the clan or of
+the species—such is the phantasm of psychology and of sociology
+extended to all of ecology—nor this sort of vital function, of an
+environmental bubble where the whole system of needs is summed
+up.^[Thus, Henri Laborit refuses the interpretation of territory
+in terms of instinct or private property: "One has never brought
+forth as evidence, either in the hypothalamus or elsewhere,
+either a cellular group or neural pathways that are
+differentiated in relation to the notion of territory… No
+territorial center seems to exist… It is not useful to appeal to
+a particular instinct"—but it is useful to do so in order to
+better return it to a functionality of needs extended to include
+cultural behaviors, which today is the vulgate common to
 economics, psychology, sociology, etc.: "The territory thus
 becomes the space necessary to the realization of the act of
 bestowing, the vital space… The bubble, the territory thus
@@ -530,3 +492,44 @@ explosion, of metamorphosis rather than energy, of obligation and
 ritual defiance rather than of liberty, of the territorial cycle
 rather than of … But the animals do not ask questions. They are
 silent.
+
+[^3]: That animals wander is a myth, and the current
+    representation of the unconscious and of desire as erratic
+    and nomadic belongs to the same "order. Animals have never
+    wandered, were never deterritorialized. A whole liberatory
+    phantasmagoria is drawn in opposition to the constraints of
+    modern society, a representation of nature and of beasts as
+    savagery, as the freedom to "fulfill all needs," today "of
+    realizing all his desires" because modern Rousseauism has
+    taken the form of the indeterminacy of drive, of the
+    wandering of desire and of the nomadism of infinitude—but it
+    is the same mystique of unleashed, noncoded forces with no
+    finality other than their own eruption.
+
+    Now, free, virgin nature, without limits or territories, where
+    each wanders at will, never existed, except in the imaginary of
+    the dominant order, of which this nature is the equivalent
+    mirror. We project (nature, desire, animality, rhizome … ) the
+    very schema of deterritorialization that is that of the economic
+    system and of capital as ideal savagery. Liberty is nowhere but
+    in capital, it is what produced it, it is what deepens it. There
+    is thus an exact correlation between the social legislation of
+    value (urban, industrial, repressive, etc.) and the imaginary
+    savagery one places in opposition to it: they are both
+    "deterritorialized" and in each other's image. Moreover, the
+    radicality of "desire," one sees this in current theories,
+    increases at the same rate as civilized abstraction, not at all
+    antagonistically, but absolutely according to the same movement,
+    that of the same form always more decoded, more decentered,
+    "freer," which simultaneously envelops our real and our
+    imaginary. Nature, liberty, desire, etc., do not even express a
+    dream the opposite of capital, they directly translate the
+    progress or the ravages of this culture, they even anticipate it,
+    because they dream of total deterritorialization where the system
+    never imposes anything but what is relative: the demand of
+    "liberty" is never anything but going further than the system,
+    but in the same direction.
+
+    Neither the beasts nor the savages know "nature" in our way: they
+    only know *territories*, limited, marked, which are spaces of
+    insurmountable reciprocity.

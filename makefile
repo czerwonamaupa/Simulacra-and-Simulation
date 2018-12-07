@@ -13,7 +13,7 @@ index.html : chapters/* styles/index.css styles/html.css template.t
 styles/ebook.css : styles/index.css styles/epub.css
 	cat styles/index.css > styles/ebook.css && cat styles/epub.css >> styles/ebook.css
 
-ebooks/simulacra-and-simulation.epub : chapters/* styles/index.css styles/ebook.css template.t cover.jpg
+ebooks/simulacra-and-simulation.epub : chapters/* styles/ebook.css template.t cover.jpg
 	pandoc \
 			-s \
 			--section-divs \

@@ -8,7 +8,9 @@
 By  
 Jean Baudrillard  
 Translated by  
-Sheila Faria Glaser
+Sheila Faria Glaser  
+Digitized by  
+Czerwonamaupa
 :::
 
 :::{.redaction}

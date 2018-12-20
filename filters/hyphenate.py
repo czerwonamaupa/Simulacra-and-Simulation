@@ -1,10 +1,14 @@
 import re
-from pandocfilters import Str, toJSONFilter
+from pandocfilters import Para, Str, toJSONFilter, walk
 from pyphen import Pyphen
 
 dic = Pyphen(lang='en_US', left=3, right=3)
 
 word_detection_pattern = re.compile(r'\w{7,}', re.UNICODE)
+
+def inpara(key, value, format, meta):
+    if key == 'Para':
+        return Para(walk(value, hyphenate, format, meta))
 
 def hyphenate(key, value, format, meta):
     if key == 'Str':
@@ -13,4 +17,4 @@ def hyphenate(key, value, format, meta):
             value))
 
 if __name__ == "__main__":
-    toJSONFilter(hyphenate)
+    toJSONFilter(inpara)

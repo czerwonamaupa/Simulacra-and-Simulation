@@ -1,8 +1,9 @@
-default : index.html books/simulacra-and-simulation.mobi
+default : index.html ebooks/simulacra-and-simulation.mobi
 
-index.html : chapters/* styles/index.css styles/html.css template.t
+index.html : chapters/* styles/index.css styles/html.css filters/* template.t
 	pandoc \
 			-s \
+			--filter filters/hyphenate.py \
 			--section-divs \
 			-o index.html \
 			-c styles/index.css \
@@ -13,15 +14,15 @@ index.html : chapters/* styles/index.css styles/html.css template.t
 styles/ebook.css : styles/index.css styles/epub.css
 	cat styles/index.css > styles/ebook.css && cat styles/epub.css >> styles/ebook.css
 
-ebooks/simulacra-and-simulation.epub : chapters/* styles/ebook.css template.t cover.jpg
+ebooks/simulacra-and-simulation.epub : chapters/* styles/ebook.css filters/* template.t cover.jpg
 	pandoc \
 			-s \
+			--filter filters/hyphenate.py \
 			--section-divs \
 			--toc-depth=2 \
 			--epub-cover-image cover.jpg \
 			-o ebooks/simulacra-and-simulation.epub \
 			-c styles/ebook.css \
-			--epub-embed-font 'fonts/*' \
 			--template template.t \
 			-t epub3 \
 			chapters/*

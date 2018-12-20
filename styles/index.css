@@ -1,39 +1,11 @@
 @charset "UTF-8";
 
-@font-face
-{ font-family: libertine;
-  src: url(../fonts/LinLibertine_R.woff); }
-
-@font-face
-{ font-family: libertine;
-  font-style: italic;
-  src: url(../fonts/LinLibertine_RI.woff); }
-
-@font-face
-{ font-family: libertine;
-  font-weight: bold;
-  src: url(../fonts/LinLibertine_RB.woff); }
-
-@font-face
-{ font-family: libertine;
-  font-weight: bold;
-  font-style: italic;
-  src: url(../fonts/LinLibertine_RBI.woff); }
-
 html
 { font-size: 0.7rem; }
 
 body
 { padding: 1rem;
-  font-family: libertine, serif; }
-
-@media (min-width: 34rem)
-{ html
-  { font-size: 1rem; }
-
-  body
-  { width: 34rem;
-    margin: 0 auto; } }
+  hyphens: none; }
 
 h1
 { font-weight: bold;
@@ -60,6 +32,7 @@ p
   margin-bottom: 0;
   margin-top: 0;
   text-align: justify;
+  hyphens: manual;
   text-indent: 1rem; }
 
 .title h1

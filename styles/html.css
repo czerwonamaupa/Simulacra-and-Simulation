@@ -1,2 +1,33 @@
+@font-face
+{ font-family: libertine;
+  src: url(../fonts/LinLibertine_R.woff); }
+
+@font-face
+{ font-family: libertine;
+  font-style: italic;
+  src: url(../fonts/LinLibertine_RI.woff); }
+
+@font-face
+{ font-family: libertine;
+  font-weight: bold;
+  src: url(../fonts/LinLibertine_RB.woff); }
+
+@font-face
+{ font-family: libertine;
+  font-weight: bold;
+  font-style: italic;
+  src: url(../fonts/LinLibertine_RBI.woff); }
+
+body
+{ font-family: libertine, serif; }
+
+@media (min-width: 34rem)
+{ html
+  { font-size: 1rem; }
+
+  body
+  { width: 34rem;
+    margin: 0 auto; } }
+
 section.level1
 { margin-bottom: 20rem; }

@@ -29,3 +29,6 @@ ebooks/simulacra-and-simulation.epub : chapters/* styles/ebook.css filters/* tem
 
 ebooks/simulacra-and-simulation.mobi : ebooks/simulacra-and-simulation.epub
 	kindlegen ebooks/simulacra-and-simulation.epub
+
+clean :
+	$(RM) ebooks/* index.html styles/ebook.css

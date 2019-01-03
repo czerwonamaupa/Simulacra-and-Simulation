@@ -132,13 +132,14 @@ span.nothing
 { margin-right: 4rem; }
 
 .footnotes ol
-{ padding-left: 3rem; }
+{ padding-left: 3rem;
+  list-style: none; }
 
 .footnotes p
 { margin-left: -3rem; }
 
 .footnotes p:first-child
-{ text-indent: 3rem; }
+{ text-indent: 2rem; }
 
 blockquote
 { margin: 1rem; }

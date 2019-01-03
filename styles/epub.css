@@ -4,7 +4,7 @@
 .initial-up
 { margin: -1.4rem 0; }
 
-.footnote-ref
+sup
 { font-size: 0.7rem;
-  vertical-align: text-top;
+  vertical-align: top;
   line-height: 0.7rem; }

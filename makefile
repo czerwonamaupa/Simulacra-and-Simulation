@@ -1,34 +1,36 @@
-default : index.html ebooks/simulacra-and-simulation.mobi
+default : index.html simulacra-and-simulation.mobi
 
-index.html : chapters/* styles/index.css styles/html.css filters/* template.t
+web.css : styles/index.css styles/html.css
+	cat styles/index.css > web.css && cat styles/html.css >> web.css
+
+index.html : chapters/* web.css filters/* template.t
 	pandoc \
-			-s \
-			--filter filters/hyphenate.py \
-			--section-divs \
-			-o index.html \
-			-c styles/index.css \
-			-c styles/html.css \
-			--template template.t \
-			chapters/*
+	-s \
+	--filter filters/hyphenate.py \
+	--section-divs \
+	-o index.html \
+	-c web.css \
+	--template template.t \
+	chapters/*
 
-styles/ebook.css : styles/index.css styles/epub.css
-	cat styles/index.css > styles/ebook.css && cat styles/epub.css >> styles/ebook.css
+ebook.css : styles/index.css styles/epub.css
+	cat styles/index.css > ebook.css && cat styles/epub.css >> ebook.css
 
-ebooks/simulacra-and-simulation.epub : chapters/* styles/ebook.css filters/* template.t cover.jpg
+simulacra-and-simulation.epub : chapters/* ebook.css filters/* template.t cover.jpg
 	pandoc \
-			-s \
-			--filter filters/hyphenate.py \
-			--section-divs \
-			--toc-depth=2 \
-			--epub-cover-image cover.jpg \
-			-o ebooks/simulacra-and-simulation.epub \
-			-c styles/ebook.css \
-			--template template.t \
-			-t epub3 \
-			chapters/*
+	-s \
+	--filter filters/hyphenate.py \
+	--section-divs \
+	--toc-depth=2 \
+	--epub-cover-image cover.jpg \
+	-o simulacra-and-simulation.epub \
+	-c ebook.css \
+	--template template.t \
+	-t epub3 \
+	chapters/*
 
-ebooks/simulacra-and-simulation.mobi : ebooks/simulacra-and-simulation.epub
-	kindlegen ebooks/simulacra-and-simulation.epub
+simulacra-and-simulation.mobi : simulacra-and-simulation.epub
+	kindlegen simulacra-and-simulation.epub
 
 clean :
-	$(RM) ebooks/* index.html styles/ebook.css
+	$(RM) simulacra-and-simulation.epub simulacra-and-simulation.mobi index.html web.css ebook.css

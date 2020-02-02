@@ -1,0 +1,66 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: cachix/install-nix-action@v6
+    - run: |
+        mkdir -p ~/.config/nixpkgs
+        echo '{ allowUnfree = true; }' > ~/.config/nixpkgs/config.nix
+    - uses: cachix/cachix-action@v3
+      with:
+        name: czerwonamaupa
+        signingKey: '${{ secrets.CACHIX_SIGNING_KEY }}'
+    - uses: actions/upload-artifact@v1
+      with:
+        name: web
+        path: result
+    - uses: actions/upload-artifact@v1
+      with:
+        name: simulacra-and-simulation.epub
+        path: result/ebooks
+    - uses: actions/upload-artifact@v1
+      with:
+        name: simulacra-and-simulation.mobi
+        path: result/ebooks
+
+  gh-pages:
+    if: startsWith(github.ref, 'refs/tags/v')
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/download-artifact@v1
+      with:
+        name: web
+        path: .
+    - uses: JamesIves/github-pages-deploy-action@releases/v3
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: gh-pages
+        FOLDER: web
+
+  release:
+    if: startsWith(github.ref, 'refs/tags/v')
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/download-artifact@v1
+      with:
+        name: simulacra-and-simulation.epub
+        path: .
+    - uses: actions/download-artifact@v1
+      with:
+        name: simulacra-and-simulation.mobi
+        path: .
+    - uses: softprops/action-gh-release@v1
+      with:
+        files: |
+          simulacra-and-simulation.epub
+          simulacra-and-simulation.mobi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
